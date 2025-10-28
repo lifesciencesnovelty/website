@@ -77,11 +77,11 @@ const Footer = () => {
             <div className="space-y-3 md:space-y-4">
               <div>
                 <p className="text-sm md:text-base text-white/95">
-                  Ground Floor, 8-6-234/2, Plot No 29, Sri Venkataramana Colony, Road Number 2,
+                  E-309, Crystal Plaza,
                   <br />
-                  vanasthalipuram, Hyderabad, Telangana
+                  Andheri(West),Mumbai
                   <br />
-                  500070
+                  400053
                 </p>
               </div>
               <div>
