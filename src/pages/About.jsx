@@ -15,6 +15,7 @@ const About = () => {
         <Intro/>
         <Journey/>
         <Stats/>
+
                       <Portfolio/>
         <Quality/>
         <Vision/>
