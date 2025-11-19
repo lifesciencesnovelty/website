@@ -17,7 +17,7 @@ const Intro = () => {
         <div className='relative z-10 flex flex-col items-center justify-center h-full text-white/75 px-4 bg-black/50 '>
             <h2 className='text-4xl md:text-5xl font-bold mb-4'>About Us</h2>
             <p className='text-base md:text-xl max-w-3xl text-center'>
-                Novelty LifeSCiences, established in 2019 (Hyderabad, India), manufactures niche oral products (tablets, capsules, syrups) via integrated facilities in Hyderabad,Mumbai and Himachal Pradesh, serving as a trusted partner for global pharma firms.
+                Novelty LifeSciences, established in 2019 (Mumbai, India), manufactures niche oral products (tablets, capsules, syrups) via integrated facilities in Mumbai,Himachal Pradesh and Hyderabad, serving as a trusted partner for global pharma firms.
             </p>
         </div>
     </section>

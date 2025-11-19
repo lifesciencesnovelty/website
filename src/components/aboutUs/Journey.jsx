@@ -7,7 +7,7 @@ const Journey = () => {
             <h1 className='text-3xl md:text-4xl text-orange-500 font-bold'>Our Journey</h1>
         
             <p className='text-lg leading-relaxed'>
-                Founded with a vision to bridge gaps in underserved therapeutic segments, Novelty LifeSciences has grown exponentially over the years. <span className='text-xl font-medium text-orange-500'>Our strategic locations in Hyderabad, Mumbai and Himachal Pradesh—home to our state-of-the-art manufacturing facilities—enable us to produce a diverse range of products, including Tablets, Capsules, Syrups, Sachets, and Softgel formulations.</span> The Kala Amb facility, operated by a reputed sister concern, further strengthens our capacity to innovate and scale production while adhering to global quality standards.
+                Founded with a vision to bridge gaps in underserved therapeutic segments, Novelty LifeSciences has grown exponentially over the years. <span className='text-xl font-medium text-orange-500'>Our strategic locations in Mumbai,Himachal Pradesh and Hyderabad—home to our state-of-the-art manufacturing facilities—enable us to produce a diverse range of products, including Tablets, Capsules, Syrups, Sachets, and Softgel formulations.</span> The Kala Amb facility, operated by a reputed sister concern, further strengthens our capacity to innovate and scale production while adhering to global quality standards.
             </p>
         </div>
     </section>

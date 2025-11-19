@@ -65,6 +65,13 @@ const Range = () => {
 
     }
         </div>
+        <a
+          href="/brochure.pdf" 
+          download="Novelty_LifeSciences_Brochure.pdf"
+          className="inline-flex items-center bg-blue-600 text-white px-8 py-4 rounded-full font-semibold text-lg shadow-md hover:bg-blue-700 hover:scale-105 transition-all duration-300"
+        >
+          📄 Download Brochure
+        </a>
     </div>
   )
 }
