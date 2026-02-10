@@ -215,7 +215,7 @@ export const products = [
       id: 10,
       name: 'Novel-XT',
       composition: 'Ferrous Bis Glycinate 60mg, Zinc Bis Glycinate 15mg, Methylcobalomin 500mcg & Folic Acid 1mg Tablets',
-      img: '/medicines.png',
+      img: '/novelxt.jpg',
       category: 'TABLET'
     },{
       id: 11,
