@@ -64,7 +64,7 @@ const ProductsPage = () => {
                   filteredProducts.map((product, index) => (
                     <div
                       key={index}
-                      className="grid grid-cols-12 gap-4 px-6 py-6 hover:bg-gray-50 transition-colors"
+                      className="grid grid-cols-12 gap-4 px-2 py-6 hover:bg-gray-50 transition-colors"
                     >
                       <div className="col-span-3 flex items-center justify-center">
                         <div>
@@ -72,7 +72,7 @@ const ProductsPage = () => {
                             <img
                             src={product.img}
                             alt={product.name}
-                            className="w-full max-h-32 object-contain rounded-lg"/>
+                            className="w-full h-full object-contain rounded-lg"/>
                           ) : (
                             <span className="w-full h-full object-cover rounded-lg">
                                 No Image

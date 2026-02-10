@@ -143,7 +143,8 @@ export const products = [
     'OINTMENTS',
     'POWDER',
     'SYRUP',
-    'LOTION'
+    'LOTION' ,
+    'SACHETS'
   ]
 
   export const iproducts = [
@@ -151,7 +152,7 @@ export const products = [
       id: 1,
       name: 'Neurovel-CD3',
       composition: 'Alpha Lipoic Acid 200mg, Benfotamine 150mg, Inositol 100mg, Chromium Picolinate 200mcg, Pyridoxine Hydrochloride 3mg, Folic Acid 1.5mg. Calcium Carbonate 500mg, Elemental Calcium 200mg, Methylcobalamin 1500mcg, Vitamin-D3 1000 IU Tablets',
-      img: '/medicines.png',
+      img: '/neurovel.jpg',
       category: 'TABLET'
     },
     {
@@ -172,7 +173,7 @@ export const products = [
       id: 4,
       name: 'BrainveL-C',
       composition: 'L-Carnosine 100mg Syrup',
-      img: '/medicines.png',
+      img: '/brainvel.jpg',
       category: 'SYRUP'
     },
     {
@@ -186,28 +187,28 @@ export const products = [
       id: 6,
       name: 'Neurovel-Plus',
       composition: 'Methylcobalamin 1500mog, Thiamine 100mg Pyridoxine 100mg Niacinamide 10ùng, D Panthenol 50mg, Benz alcohl 2% injection',
-      img: '/medicines.png',
+      img: '/neurovel-plus.jpg',
       category: 'INJECTABLES'
     },
     {
       id: 7,
       name: 'Novepod-200 DT',
       composition: 'Cefpodoxime Proxetil 200 mg Disperable Tablets.',
-      img: '/medicines.png',
+      img: '/novepod.jpg',
       category: 'TABLET'
     },
     {
       id: 8,
       name: 'Novepan-D',
       composition: 'Pantaprazole Sodium 40mg & Domperidone 30mg SR Capsules',
-      img: '/medicines.png',
+      img: '/novepan-d.jpg',
       category: 'CAPSULE'
     },
     {
       id: 9,
       name: 'Tendokey',
       composition: 'Rosehip Extract 375mg. Collagen Peptide Type-11 40mg, Glucosamine 750mg, Sodium Hyaluronate 30mg, Chondroitin Sulphate 200mg, Vitamin C 35mg. Vitamin. D3 400 IU Tablets',
-      img: '/medicines.png',
+      img: '/tendokey.jpg',
       category: 'TABLET'
     },
     {
@@ -227,7 +228,7 @@ export const products = [
       id: 12,
       name: 'Novepan-IV',
       composition: 'Pantaprazole Sodium injection B.P. 40mg',
-      img: '/medicines.png',
+      img: '/novepan-IV.jpg',
       category: 'INJECTABLES'
     },
   ];
