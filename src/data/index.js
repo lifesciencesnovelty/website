@@ -231,6 +231,56 @@ export const products = [
       img: '/novepan-IV.jpg',
       category: 'INJECTABLES'
     },
+    {
+      id: 13,
+      name: 'Tolrax-D',
+      composition: 'Tolperisone Hcl 150 mg + Diclofenac Sodium 50 mg Tablets',
+      img: '/medicines.png',
+      category: 'TABLET'
+    },
+    {
+      id: 14,
+      name: 'Hale-ADM',
+      composition: 'Montelukast 10mg + Desloratadine 5 mg + Acebrophylline 200mg Tablets',
+      img: '/medicines.png',
+      category: 'TABLET'
+    },
+    {
+      id: 15,
+      name: 'Q Mag-E',
+      composition: 'Coenzyme Q10 150 mg, Magnesium 340 mg, Vitamin B2 1.6 mg, Vitamin-E 200 mg and Omega 3 Fatty Acids 100 mg Softgel Capsule',
+      img: '/medicines.png',
+      category: 'TABLET'
+    },
+{
+      id: 16,
+      name: 'Calvel - XT',
+      composition: 'Elemental Calcium 500mg, L-Methylfolate Img, Methylcobalamin 1500mcg, Pyridoxal 5 Phosphate 20mg & Vitamin D3 2000IU Tablets',
+      img: '/medicines.png',
+      category: 'TABLET'
+    },
+    {
+      id: 17,
+      name: 'Neurovel-CD3',
+      composition: 'Alpha Lipoic Acid 200mg, Benfotamine 150mg, Inositol 100mg, Chromium Picolinate 200mcg, Pyridoxine Hydrochloride 3mg, Folic Acid 1.5mg. Calcium Carbonate 500mg, Elemental Calcium 200mg, Methylcobalamin 1500mcg, Vitamin-D3 1000 IU Tablets',
+      img: '/medicines.png',
+      category: 'TABLET'
+    },
+    {
+      id: 18,
+      name: 'Argivel',
+      composition: 'L-Arginine 3g + DHA 20% 200 mg + Proanthocyanidin 75 mg + Vitamin Bó 2 mg + Folic Acid 200 mcg Sachet',
+      img: '/medicines.png',
+      category: 'SACHETS'
+    },
+    {
+      id: 19,
+      name: 'Bacivel pro',
+      composition: 'Bacillus Clousii 2 Billion Spores Oral Suspension',
+      img: '/medicines.png',
+      category: 'SACHETS'
+    },
+
   ];
 
   export const portfolio = [
