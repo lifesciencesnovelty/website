@@ -235,7 +235,7 @@ export const products = [
       id: 13,
       name: 'Tolrax-D',
       composition: 'Tolperisone Hcl 150 mg + Diclofenac Sodium 50 mg Tablets',
-      img: '/medicines.png',
+      img: '/tolrax-d.jpg',
       category: 'TABLET'
     },
     {
@@ -249,14 +249,14 @@ export const products = [
       id: 15,
       name: 'Q Mag-E',
       composition: 'Coenzyme Q10 150 mg, Magnesium 340 mg, Vitamin B2 1.6 mg, Vitamin-E 200 mg and Omega 3 Fatty Acids 100 mg Softgel Capsule',
-      img: '/medicines.png',
+      img: '/qmag-e.jpg',
       category: 'TABLET'
     },
 {
       id: 16,
       name: 'Calvel - XT',
       composition: 'Elemental Calcium 500mg, L-Methylfolate Img, Methylcobalamin 1500mcg, Pyridoxal 5 Phosphate 20mg & Vitamin D3 2000IU Tablets',
-      img: '/medicines.png',
+      img: '/calvel-xt.jpg',
       category: 'TABLET'
     },
     {
