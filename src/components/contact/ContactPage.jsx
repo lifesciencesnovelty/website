@@ -109,7 +109,7 @@ export default function Contact() {
                     Corp. Office:
                   </h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Hyderabad,India
+                    Mumbai,India
                   </p>
                 </div>
               </div>
@@ -123,7 +123,7 @@ export default function Contact() {
                     Factory Address:
                   </h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Hyderabad, India
+                    Mumbai, India
                   </p>
                 </div>
               </div>
